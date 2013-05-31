@@ -10,7 +10,6 @@
  *
  *= require_self
  *= require_tree .
- *= require 'index.css'
+ *= require foundation_and_overrides
  */
 
- *= require foundation_and_overrides
